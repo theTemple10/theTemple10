@@ -79,7 +79,7 @@ Automates the job search pipeline — parses job listings, matches them to a can
 
 A production-grade wallet API: account creation, fund transfers, withdrawals, and full transaction history with double-entry bookkeeping.
 
-`Python` `PostgreSQL` `REST API` `Fintech`
+`TypeScript` `PostgreSQL` `REST API` `Fintech`
 
 → *Clean financial data model; audit-ready transaction ledger*
 
@@ -160,11 +160,11 @@ Sorts and renames files by type. Memory-efficient design — processing time sta
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  REST API backends        (FastAPI / Flask)              │
+│  REST API backends        (FastAPI / Flask)             │
 │  n8n automation workflows (API ↔ DB ↔ AI integrations)  │
-│  Data pipelines           (fetch → process → store)      │
-│  Fintech systems          (wallets, ledgers, loans)       │
-│  Database design & query optimisation                    │
+│  Data pipelines           (fetch → process → store)     │
+│  Fintech systems          (wallets, ledgers, loans)     │
+│  Database design & query optimisation                   │
 └─────────────────────────────────────────────────────────┘
 ```
 
