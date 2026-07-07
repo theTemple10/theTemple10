@@ -88,7 +88,7 @@ A production-grade wallet API: account creation, fund transfers, withdrawals, an
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Loan Tracker](https://github.com/theTemple10/loan-tracker)
+### 📊 [Loan Tracker](https://github.com/theTemple10/loan-tracker-api)
 **Loan management & repayment system**
 
 Tracks loan disbursements, repayment schedules, outstanding balances, and overdue alerts. Built for lenders and cooperative societies.
