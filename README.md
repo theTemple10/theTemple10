@@ -13,7 +13,7 @@
 
 ---
 
-## `> whoami`
+## `> who_am_i`
 
 ```python
 victor = {
