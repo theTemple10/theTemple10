@@ -141,7 +141,7 @@ Sorts and renames files by type. Memory-efficient design — processing time sta
 
 ---
 
-## `> github_stats`
+[//] # # `> github_stats`
 
 <div align="center">
 
