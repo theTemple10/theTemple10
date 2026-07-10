@@ -141,17 +141,6 @@ Sorts and renames files by type. Memory-efficient design — processing time sta
 
 ---
 
-[//] # # `> github_stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theTemple10&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theTemple10&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=theTemple10&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6C37&currStreakLabel=2F81F7)](https://github.com/theTemple10)
-
 </div>
 
 ---
